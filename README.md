@@ -6,7 +6,7 @@
 **오픈소스 소프트웨어** : 소스코드가 공개되어 누구나 자유롭게 사용,복제,수정,배포할 수 있는 소프트웨어
 
 - 오픈소스 라이선스 종류 : GPL, Apache License, MIT, BSD, Creative Commons, MPL, AGPL
-- 오픈소스 형태의 운영체제 : **리눅스**(Ubuntu, RHEL, CentOS, Fedora)
+- 오픈소스 형태의 운영체제 : **리눅스**(Ubuntu, RHEL, CentOS, Fedora) 
 - 개발 시 활용되는 관리 시스템 : Git/Github, Gitlab
 
 # 2. 리눅스
@@ -38,7 +38,7 @@
 9. 네트워크 관리 : `nmcli`, `ip`, `route`, `ping`, `traceroute`, `netstat`, `nmap`, `ufw`
 
 # 3. Github
-**Github** : 버전 관리 도구인 Git으로 관리되는 소스코드 형상관리 정보를 보여주는 웹 기반 서비스
+**Github** : 버전 관리 도구인 Git으로 관리되는 소스코드 형상관리 정보를 보여주는 웹 기반 서비스 ([link](https://github.com))
 
 ## 3.2. Github 활용법
 ### 3.2.1. 로컬 레포지토리에서 작업
