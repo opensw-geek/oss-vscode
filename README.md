@@ -3,11 +3,11 @@
       
 # 1. 오픈소스 소프트웨어
 
-**오픈소스 소프트웨어** : 소스코드가 공개되어 누구나 자유롭게 사용,복제,수정,배포할 수 있는 소프트웨어
+**오픈소스 소프트웨어** : 소스코드가 공개되어 <ins/>누구나 자유롭게 사용,복제,수정,배포할 수 있는 소프트웨어</ins>
 
 - 오픈소스 라이선스 종류 : GPL, Apache License, MIT, BSD, Creative Commons, MPL, AGPL
 - 오픈소스 형태의 운영체제 : **리눅스**(Ubuntu, RHEL, CentOS, Fedora) 
-- 개발 시 활용되는 관리 시스템 : [Git/Github](https://github.com/opensw-geek/oss-vscode/edit/main/README.md#3-github), Gitlab
+- 개발 시 활용되는 관리 시스템 : Git/Github, Gitlab
 
 # 2. 리눅스
 > _아래 내용은 Ubuntu 기준으로 작성되었음_
